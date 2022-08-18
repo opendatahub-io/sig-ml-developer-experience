@@ -1,8 +1,14 @@
 approvers:
-  - github_user_1
-  - github_user_2
-  - github_user_3
+- erwangranger
+- jkoehler-redhat
+- kywalker-rh
+- romeokienzler
+
 reviewers:
-  - github_user_1
-  - github_user_2
-  - github_user_3  
+- goern
+- LaVLaS
+- lucferbux
+- samuelvl
+
+labels:
+  - sig/ml-developer-experience
