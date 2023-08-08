@@ -9,7 +9,7 @@ The [charter](https://github.com/opendatahub-io/odh-template-sig/blob/main/Docs/
 
 ## Meetings
 
-[Monthly SIG meeting:](http://meet.google.com/ipx-ewwx-cup) Every 4th Tuesday of the month. [Meeting notes and agenda](https://docs.google.com/document/d/1cGK5kkhp6SLhCc__pmLCfHEiCP-lZPcxpJTsz1nwaNY/edit).
+[Monthly SIG meeting:](meet.google.com/rhj-kdnf-gyi) Every 4th Tuesday of the month. [Meeting notes and agenda]([https://docs.google.com/document/d/1cGK5kkhp6SLhCc__pmLCfHEiCP-lZPcxpJTsz1nwaNY/edit](https://github.com/opendatahub-io/sig-ml-developer-experience/wiki)).
 
 ## Leadership
 
