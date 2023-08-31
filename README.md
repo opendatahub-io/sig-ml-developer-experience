@@ -12,4 +12,4 @@ The [charter](https://github.com/opendatahub-io/opendatahub-community/blob/maste
 
 ## Leadership & Contact Information
 
-[See the charter information](https://github.com/opendatahub-io/opendatahub-community/blob/master/sig-ml-developer-experience/README.md).
+[See the leadership & contact information](https://github.com/opendatahub-io/opendatahub-community/blob/master/sig-ml-developer-experience/README.md).
