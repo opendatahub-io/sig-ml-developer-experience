@@ -1,14 +1,11 @@
 approvers:
-- erwangranger
-- jkoehler-redhat
 - kywalker-rh
-- romeokienzler
+- andrewballantyne
 
 reviewers:
 - goern
 - LaVLaS
 - lucferbux
-- samuelvl
 
 labels:
   - sig/ml-developer-experience
